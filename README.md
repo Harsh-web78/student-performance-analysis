@@ -107,3 +107,7 @@ so keep the folder structure as it is for it to work.
 - Sleep hours show only a weak relationship in this sample.
 - Group averages help highlight where differences exist, but variation within groups is large, so results should be read as associations, not causation.
 - Full plots and numbers are in the notebook.
+
+## Author
+
+Harsh Patil
